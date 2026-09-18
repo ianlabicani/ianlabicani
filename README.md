@@ -19,44 +19,34 @@ I build practical software for real workflows—from CRM/ERP operations and educ
 
 ## Technical focus
 
-**Backend** · PHP · Laravel · REST APIs · authorization · workflow design
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php%2Claravel&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=php,laravel&amp;theme=light" alt="PHP and Laravel" />
-  </picture>
+<p>
+  <strong>Backend</strong><br />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" height="28" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" height="28" />
+  <img src="https://img.shields.io/badge/REST%20APIs-334155?style=for-the-badge&amp;logo=openapi&amp;logoColor=white" alt="REST APIs" height="28" /><br />
+  <sub>authorization · workflow design</sub>
 </p>
 
-**Frontend** · React · Inertia.js · TypeScript · Tailwind CSS
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Ctypescript%2Ctailwind&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Ctypescript%2Ctailwind&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind&amp;theme=light" alt="React, TypeScript, and Tailwind CSS" />
-  </picture>
+<p>
+  <strong>Frontend</strong><br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&amp;logo=inertia&amp;logoColor=white" alt="Inertia.js" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" height="28" />
 </p>
 
-**Data and infrastructure** · PostgreSQL · PostGIS · SQLite · Docker
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Csqlite%2Cdocker&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Csqlite%2Cdocker&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker&amp;theme=light" alt="PostgreSQL, SQLite, and Docker" />
-  </picture>
+<p>
+  <strong>Data and infrastructure</strong><br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="28" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&amp;logo=postgis&amp;logoColor=white" alt="PostGIS" height="28" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="28" />
 </p>
 
-**Mobile** · Flutter · Dart
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=light" alt="Flutter and Dart" />
-  </picture>
+<p>
+  <strong>Mobile</strong><br />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" height="28" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" height="28" />
 </p>
 
 ## Selected work
