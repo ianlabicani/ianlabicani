@@ -23,9 +23,9 @@ I build practical software for real workflows—from CRM/ERP operations and educ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel&theme=light" />
-    <img src="https://skillicons.dev/icons?i=php,laravel&theme=light" alt="PHP and Laravel" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php%2Claravel&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel&amp;theme=light" alt="PHP and Laravel" />
   </picture>
 </p>
 
@@ -33,9 +33,9 @@ I build practical software for real workflows—from CRM/ERP operations and educ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=light" alt="React, TypeScript, and Tailwind CSS" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Ctypescript%2Ctailwind&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Ctypescript%2Ctailwind&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind&amp;theme=light" alt="React, TypeScript, and Tailwind CSS" />
   </picture>
 </p>
 
@@ -43,9 +43,9 @@ I build practical software for real workflows—from CRM/ERP operations and educ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,sqlite,docker&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,sqlite,docker&theme=light" />
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker&theme=light" alt="PostgreSQL, SQLite, and Docker" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Csqlite%2Cdocker&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Csqlite%2Cdocker&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker&amp;theme=light" alt="PostgreSQL, SQLite, and Docker" />
   </picture>
 </p>
 
@@ -53,9 +53,9 @@ I build practical software for real workflows—from CRM/ERP operations and educ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart&theme=light" />
-    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=light" alt="Flutter and Dart" />
   </picture>
 </p>
 
