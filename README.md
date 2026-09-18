@@ -1,15 +1,63 @@
-# Hi, I'm Ian Labicani
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ian Labicani — full-stack developer" width="100%" />
+</p>
 
-Full-stack developer building practical web, mobile, and business systems.
+<h1 align="center">Hi, I'm Ian Labicani</h1>
 
-I enjoy turning real workflows into maintainable products with clear business rules, thoughtful interfaces, and reliable data flows. My primary focus is full-stack and backend development, while staying comfortable across the frontend and mobile layers.
+<p align="center">
+  Full-stack developer building practical web, mobile, and business systems.
+</p>
+
+<p align="center">
+  <a href="https://shipwithian.online">Portfolio</a> ·
+  <a href="https://shipwithian.online/projects">Projects</a> ·
+  <a href="https://shipwithian.online/blog">Engineering blog</a> ·
+  <a href="https://linkedin.com/in/ianlabicani">LinkedIn</a>
+</p>
+
+I build practical software for real workflows—from CRM/ERP operations and education systems to offline-first mobile tools. I enjoy working across backend architecture, data modeling, product workflows, and the interfaces that make those systems easier to use.
 
 ## Technical focus
 
-- **Backend:** PHP, Laravel, REST APIs, authorization, and workflow design
-- **Frontend:** React, Inertia.js, TypeScript, and Tailwind CSS
-- **Data and infrastructure:** PostgreSQL, PostGIS, SQLite, and Docker
-- **Mobile:** Flutter and Dart
+**Backend** · PHP · Laravel · REST APIs · authorization · workflow design
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel&theme=light" alt="PHP and Laravel" height="48" />
+  </picture>
+</p>
+
+**Frontend** · React · Inertia.js · TypeScript · Tailwind CSS
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=light" alt="React, TypeScript, and Tailwind CSS" height="48" />
+  </picture>
+</p>
+
+**Data and infrastructure** · PostgreSQL · PostGIS · SQLite · Docker
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,sqlite,docker&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,sqlite,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker&theme=light" alt="PostgreSQL, SQLite, and Docker" height="48" />
+  </picture>
+</p>
+
+**Mobile** · Flutter · Dart
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart" height="48" />
+  </picture>
+</p>
 
 ## Selected work
 
@@ -27,10 +75,18 @@ I enjoy turning real workflows into maintainable products with clear business ru
 
 - **[geoph-lite](https://github.com/ianlabicani/geoph-lite)** — Lightweight Philippine geographic data based on the Philippine Standard Geographic Code for Node.js and modern frontend applications.
 
-## Writing and links
+## Contribution activity
 
-- [Portfolio](https://shipwithian.online)
-- [Projects](https://shipwithian.online/projects)
-- [Engineering blog](https://shipwithian.online/blog)
-- [LinkedIn](https://linkedin.com/in/ianlabicani)
-- [GitHub](https://github.com/ianlabicani)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ianlabicani/ianlabicani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ianlabicani/ianlabicani/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ianlabicani/ianlabicani/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph snake" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ianlabicani">GitHub</a> ·
+  <a href="https://shipwithian.online">Portfolio</a> ·
+  <a href="https://linkedin.com/in/ianlabicani">LinkedIn</a>
+</p>
